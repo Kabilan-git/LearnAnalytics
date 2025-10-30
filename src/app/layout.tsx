@@ -40,7 +40,7 @@ gtag('config', 'G-QFPL309M1C');`}
         </Script>
       </head>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} min-h-screen antialiased`}
       >
         {children}
       </body>
